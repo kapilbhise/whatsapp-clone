@@ -1,4 +1,5 @@
 # WhatsApp Clone
+WhatsApp clone using react and firebase along with hosting and google authentication where developers can create chat rooms and have discussion about issues and can work on new projects.
 
 ## Getting Started with Create React App
 
